@@ -1,4 +1,4 @@
-// Pancu Robert-George 334CA
+Pancu Robert-George 334CA
 
     Pentru implementarile tuturor functiilor din string.c m-am uitat pe acest link:
     https://tutorialspoint.com/c_standard_library/ in afara de strncpy() si strncat()
